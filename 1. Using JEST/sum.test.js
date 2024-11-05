@@ -1,6 +1,6 @@
 const sum = require('./sum.js');
 
-test("[SOMA]: 1 + 2 deve ser 3.", () => {
+test("[SUM]: 1 + 2 must be equal to 3.", () => {
     expect(sum(1, 2)).toBe(3);
 });
 
