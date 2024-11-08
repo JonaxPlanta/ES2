@@ -7,3 +7,4 @@ test("[SUM]: 1 + 2 must be equal to 3. \n    [SUB]: 1 - 2 must be equal to -1. \
 
 // To test, use in terminal:
 // "npm run test"
+// "npx jest"
